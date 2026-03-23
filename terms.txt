@@ -1,0 +1,1 @@
+This app is a personal tool to schedule and post videos to my own TikTok account.
